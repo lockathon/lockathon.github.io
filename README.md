@@ -1,3 +1,3 @@
-# rishavrajRDX.github.io
+# Lockathon V2 - 2021
 
-LOCKATHON WEBSITE link:- https://lockathon.tech/
+LOCKATHON WEBSITE link:- https://lockathon.github.io/
